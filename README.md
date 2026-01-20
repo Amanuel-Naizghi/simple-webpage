@@ -5,4 +5,4 @@
 - How to use basic html boiler plate
 - Different tags like header, paragraph, images
 - Adding up image reference with alt-text for descripition
-- Tables, links and lists (ordered and unordered)
+- Tables, links
